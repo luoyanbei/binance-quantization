@@ -99,12 +99,6 @@ class BinanceAPI(object):
 ![收益图](https://s3.ax1x.com/2021/02/01/yVzytA.jpg)
 
 
-### 私人微信：欢迎志同道合的朋友一同探讨，一起进步。
-![交流群](https://s3.ax1x.com/2021/01/08/snv3ss.jpg)
-![wechat-QRcode](https://s3.ax1x.com/2020/11/14/DPSYss.jpg)
-![币圈快讯爬取群](https://s3.ax1x.com/2021/02/01/yZSU4s.jpg)
-wx号：findpanpan
-麻烦备注来自github
 ### 钉钉设置教程
 ![钉钉设置教程](https://s3.ax1x.com/2021/01/08/suMVIK.png)
 
